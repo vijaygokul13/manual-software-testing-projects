@@ -1,83 +1,43 @@
-# 🧪 Project 1 – Demoblaze Manual Testing
+# 🧪 Manual Software Testing Projects
 
-This project is part of my manual software testing portfolio. It showcases the complete QA process — from understanding requirements to reporting bugs — for the **Demoblaze E-Commerce Web Application**.
+This repository contains a collection of real-world **manual software testing projects** created to demonstrate my end-to-end QA documentation, execution, and defect management skills.
 
----
-
-## 🔍 Project Overview:
-
-
-**Application Under Test (AUT):** 
-[Demoblaze](https://www.demoblaze.com)  
-
-**Type:** 
-Web-based e-commerce demo site  
-
-**Platform:** 
-Desktop & Mobile (Responsive UI)  
-
-**Testing Type:** 
-Manual Functional Testing  
-
-**Scope:**  
-- User Authentication (Sign up, Login, Logout)  
-- Product Listing & Details  
-- Cart Management  
-- Checkout & Order Placement  
-- Basic Security & UI Validations  
+Each project includes:
+- Business & Technical Requirements (BRD, TRD)
+- Detailed Test Plan and Test Scenarios
+- Test Cases with Expected/Actual Results
+- Defect Reports with Severity and Priority
+- Test Summary Report and Optional Screenshots
 
 ---
 
-## 📄 Documents Included
+## 📁 Projects Included
 
-| File | Description |
-|------|-------------|
-| `Demoblaze_BRD_v1.0.docx` | Business Requirements Document |
-| `Demoblaze_TRD_v1.0.docx` | Technical Requirements Document |
-| `Demoblaze_Test_Plan.docx` | Test Plan with objective, scope, and strategy |
-| `Demoblaze_Test_Suite.xlsx` | Full test scenarios, test cases, execution status |
-| `Demoblaze_Dev_Handoff.xlsx` | Developer delivery and handoff summary |
-| `Test_Summary_Report.xlsx` | Execution summary of passed/failed cases |
+### 🔹 [Project 1 – Demoblaze Manual Testing](./Project-1)
+A demo e-commerce website tested for complete functional coverage, including login, product catalogue, cart, checkout, and basic security.
+➡️ View detailed files in `project-1-demoblaze/`
+
+### 🔹 Project 2 – Coming Soon  
+*(Another full test cycle project will be added here shortly.)*
 
 ---
 
-## ✅ Key Features Tested
+## 🧰 Tools & Skills Demonstrated
 
-- ✅ User Sign up, Login, Logout  
-- ✅ Product Filtering by Category  
-- ✅ Product Detail Page Validation  
-- ✅ Add/Remove Products in Cart  
-- ✅ Checkout & Form Validation  
-- ✅ Order Confirmation Workflow  
-- ✅ Responsive Design Check  
-- ✅ Basic Security (SQL Injection, XSS)
-
----
-
-## 🧪 Tools Used
-
-- Excel (Test Suite & Defect Sheet)  
-- Microsoft Word (Documentation)  
-- Web Browser Dev Tools (For session & local storage validation)
-
----
-
-## 🚀 What This Project Demonstrates
-
-✔️ Real-world QA documentation skills  
-✔️ Complete test lifecycle execution  
-✔️ Defect identification and reporting  
-✔️ Attention to both functional and usability aspects  
-✔️ Readiness for freelance or full-time manual testing roles
+- ✅ Manual Functional Testing  
+- ✅ Test Case Design & Execution  
+- ✅ Defect Reporting & Tracking  
+- ✅ Test Plan, BRD, TRD Preparation  
+- ✅ Excel, Word, Browser Dev Tools  
 
 ---
 
 ## 👤 Author
 
 **Vijay Geete**  
-*Manual QA Tester | QA Documentation Specialist*
+Manual QA Tester | QA Documentation Specialist  
+[GitHub Profile](https://github.com/vijaygokul13)
 
 ---
 
-> 📌 *This project is for learning and demonstration purposes only. Demoblaze is a publicly available demo site used for training and testing.*
-
+> 📌 These projects are based on public demo applications and are intended for portfolio, learning, and freelance opportunities.
