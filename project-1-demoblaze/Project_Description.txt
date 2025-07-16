@@ -1,0 +1,45 @@
+Project Title: 
+Manual Testing of Demoblaze E-Commerce Website
+
+Project Type: 
+Manual Functional Testing (Portfolio Project)
+
+Objective:
+To demonstrate the end-to-end manual testing process of a web-based e-commerce application using industry-standard QA documentation and defect reporting practices.
+
+Application Under Test (AUT):
+Demoblaze - https://www.demoblaze.com
+
+Scope of Testing:
+- User Registration (Sign up)
+- Login and Logout functionality
+- Product browsing and filtering by category
+- Product detail page validations
+- Add to Cart and Remove from Cart
+- Checkout process and order placement
+- Success messages and UI confirmations
+- Session handling after logout
+- Basic client-side security validation (SQL injection, XSS)
+
+Files Included:
+- Business Requirements Document (BRD)
+- Technical Requirements Document (TRD)
+- Test Plan
+- Test Scenarios and Test Cases (Excel format)
+- Defect Sheet with Severity & Priority
+- Developer Handoff Document
+- Test Summary Report
+- Optional: Screenshots for failed test cases
+
+Tools Used:
+- Excel (for test suite and defect tracking)
+- Microsoft Word (for documentation)
+- Browser DevTools (for session/localStorage validation)
+
+Author:
+Vijay Geete  
+Manual QA Tester | QA Documentation Specialist  
+GitHub: https://github.com/vijaygokul13
+
+Note:
+This project is part of a QA portfolio and is based on a publicly available demo application (Demoblaze). It is intended for educational and demonstration purposes only.
