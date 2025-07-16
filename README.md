@@ -38,7 +38,6 @@ Manual Functional Testing
 | `Demoblaze_Test_Suite.xlsx` | Full test scenarios, test cases, execution status |
 | `Demoblaze_Dev_Handoff.xlsx` | Developer delivery and handoff summary |
 | `Test_Summary_Report.xlsx` | Execution summary of passed/failed cases |
-| `Screenshots/` | (Optional) Screenshots for failed test cases |
 
 ---
 
